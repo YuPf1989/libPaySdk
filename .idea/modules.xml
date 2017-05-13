@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/libPay/libPay.iml" filepath="$PROJECT_DIR$/libPay/libPay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libPaySdk.iml" filepath="$PROJECT_DIR$/libPaySdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testPaySdk/testPaySdk.iml" filepath="$PROJECT_DIR$/testPaySdk/testPaySdk.iml" />
+    </modules>
+  </component>
+</project>

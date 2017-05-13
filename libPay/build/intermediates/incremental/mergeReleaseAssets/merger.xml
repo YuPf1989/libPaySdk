@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Workspace\Demo\libPaySdk\libPay\src\main\assets"><file name="data.bin" path="D:\Workspace\Demo\libPaySdk\libPay\src\main\assets\data.bin"/></source><source path="D:\Workspace\Demo\libPaySdk\libPay\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="D:\Workspace\Demo\libPaySdk\libPay\src\release\assets"/></dataSet></merger>

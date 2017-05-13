@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:2:1-81:12
+	package
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:3:5-37
+	android:versionName
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\YuPanfeng\.android\build-cache\88a0fe9d6be0dd7fed6488a9d72ae0ee4c92ac73\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\YuPanfeng\.android\build-cache\945b3c7e1296f9b22c855093caa043b48c8c31be\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\YuPanfeng\.android\build-cache\585602b47b35e33bb00fa51383f015ca63a4775c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\YuPanfeng\.android\build-cache\7578b3f5093b69a41d0672039c6234361318f005\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\YuPanfeng\.android\build-cache\e80e3629db123a54fe5661448538a219ab3d9917\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\YuPanfeng\.android\build-cache\e5f1149d6f2234e9a2f9eb72bc3894ca9213aaad\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] C:\Users\YuPanfeng\.android\build-cache\88a0fe9d6be0dd7fed6488a9d72ae0ee4c92ac73\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml
+application
+ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:11:5-79:19
+MERGED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:22:5-141:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\YuPanfeng\.android\build-cache\88a0fe9d6be0dd7fed6488a9d72ae0ee4c92ac73\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\YuPanfeng\.android\build-cache\945b3c7e1296f9b22c855093caa043b48c8c31be\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\YuPanfeng\.android\build-cache\585602b47b35e33bb00fa51383f015ca63a4775c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\YuPanfeng\.android\build-cache\7578b3f5093b69a41d0672039c6234361318f005\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\YuPanfeng\.android\build-cache\e80e3629db123a54fe5661448538a219ab3d9917\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\YuPanfeng\.android\build-cache\e5f1149d6f2234e9a2f9eb72bc3894ca9213aaad\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:15:9-51
+activity#com.example.testpaysdk.MainActivity
+ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:17:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:22:27-74
+meta-data#WXPAY_APP_ID
+ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:27:9-30:21
+	android:value
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:29:13-47
+	android:name
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:28:13-40
+meta-data#WXPAY_MCH_ID
+ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:31:9-34:21
+	android:value
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:33:13-39
+	android:name
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:32:13-40
+meta-data#WXPAY_API_KEY
+ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:35:9-38:21
+	android:value
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:37:13-61
+	android:name
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:36:13-41
+meta-data#ALIPAY_PARTNER_ID
+ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:43:9-46:21
+	android:value
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:45:13-47
+	android:name
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:44:13-45
+meta-data#ALIPAY_SELLER_ID
+ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:47:9-50:21
+	android:value
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:49:13-43
+	android:name
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:48:13-44
+meta-data#ALIPAY_PRIVATE_KEY
+ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:51:9-54:21
+	android:value
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:53:13-877
+	android:name
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:52:13-46
+meta-data#ALIPAY_PUBLIC_KEY
+ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:55:9-58:21
+	android:value
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:57:13-245
+	android:name
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:56:13-45
+meta-data#UPPAY_PUBLICKEY_PM_MODULUS
+ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:64:9-67:21
+	android:value
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:66:13-648
+	android:name
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:65:13-54
+meta-data#UPPAY_PUBLIC_EXPONENT
+ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:68:9-71:21
+	android:value
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:70:13-34
+	android:name
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:69:13-49
+meta-data#UPPAY_PUBLIC_KEY_PRODUCT_MODULUS
+ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:72:9-75:21
+	android:value
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:74:13-648
+	android:name
+		ADDED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml:73:13-60
+uses-permission#android.permission.INTERNET
+ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:15:22-72
+uses-permission#org.simalliance.openmobileapi.SMARTCARD
+ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.NFC
+ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:18:5-62
+	android:name
+		ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:18:22-59
+uses-feature#android.hardware.nfc.hce
+ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:20:5-61
+	android:name
+		ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:20:19-58
+activity#net.lbh.pay.PaymentActivity
+ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:38:9-41:75
+	android:launchMode
+		ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:40:13-43
+	android:theme
+		ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:41:13-72
+	android:name
+		ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:39:13-55
+activity-alias#${applicationId}.wxapi.WXPayEntryActivity
+ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:43:9-46:68
+	android:exported
+		ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:45:13-36
+	android:targetActivity
+		ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:46:13-65
+	android:name
+		ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:44:13-69
+		INJECTED from D:\Workspace\Demo\libPaySdk\testPaySdk\src\main\AndroidManifest.xml
+activity#com.alipay.sdk.app.H5PayActivity
+ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:51:9-56:70
+	android:screenOrientation
+		ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:55:13-47
+	android:exported
+		ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:54:13-37
+	android:windowSoftInputMode
+		ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:56:13-67
+	android:configChanges
+		ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:53:13-74
+	android:name
+		ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:52:13-60
+activity#com.unionpay.uppay.PayActivity
+ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:61:9-66:58
+	android:screenOrientation
+		ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:65:13-49
+	android:excludeFromRecents
+		ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:64:13-46
+	android:windowSoftInputMode
+		ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:66:13-55
+	android:configChanges
+		ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:63:13-63
+	android:name
+		ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:62:13-58
+activity#com.unionpay.UPPayWapActivity
+ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:67:9-71:58
+	android:screenOrientation
+		ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:70:13-49
+	android:windowSoftInputMode
+		ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:71:13-55
+	android:configChanges
+		ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:69:13-63
+	android:name
+		ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:68:13-57
+receiver#net.lbh.pay.wxpay.AppRegister
+ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:76:9-80:20
+	android:name
+		ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:76:19-63
+intent-filter#com.tencent.mm.plugin.openapi.Intent.ACTION_REFRESH_WXAPP
+ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:77:13-79:29
+action#com.tencent.mm.plugin.openapi.Intent.ACTION_REFRESH_WXAPP
+ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:78:17-100
+	android:name
+		ADDED from [libPaySdk:libPay:unspecified] D:\Workspace\Demo\libPaySdk\libPay\build\intermediates\bundles\default\AndroidManifest.xml:78:25-97
